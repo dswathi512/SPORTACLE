@@ -1,0 +1,7 @@
+{
+  "name": "SPORTACLE",
+  "description": "An AI-powered platform to democratize sports talent assessment across India, focusing on inclusivity, scalability, and accessibility for athletes in all regions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
