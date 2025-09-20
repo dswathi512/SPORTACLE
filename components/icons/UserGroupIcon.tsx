@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const UserGroupIcon: React.FC<{ className?: string }> = ({ className }) => (

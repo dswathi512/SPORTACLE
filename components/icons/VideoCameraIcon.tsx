@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const VideoCameraIcon: React.FC<{ className?: string }> = ({ className }) => (
